@@ -13,5 +13,6 @@ The project was built using React.
 
 ### **How to get started** ###
 Download the project into any IDE (i.e VSCode) and in the terminal enter "npm start". 
-If for any reason the project isn't working, enter "npm i"
+If for any reason the project isn't working, enter "npm i" 
+Make sure you have Node.js installed 
 
