@@ -19,3 +19,5 @@ The project was built using React.
 5. In the terminal enter "npm start". This should build the server and you should see the app being installed.
 6. (HELP): If for some reason the application is not working try runnin "node -v" or "npm -v" to check if Node.js is installed.
 
+
+Enjoy!
